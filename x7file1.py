@@ -169,6 +169,6 @@ print(lines) #['First line\n', 'Second line\n', 'Third line\n']
 
 frist, second,third = open('/home/how/test2/y8.txt')
 
-print(frist, second, third)#First line ...
+print(frist, second, third)#First line .....
 
 
